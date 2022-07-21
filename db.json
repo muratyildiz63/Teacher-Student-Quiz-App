@@ -1,0 +1,158 @@
+{
+  "Sorular": [
+    {
+      "DersKodu": "TR1",
+      "Soru": "Aşağıdaki isimlerden hangisi tek hecelidir?",
+      "A": "ali",
+      "B": "Selim",
+      "C": "Can",
+      "D": "Murat",
+      "DogruCevap": "Can",
+      "durum": true,
+      "Puan": 10,
+      "id": 1
+    },
+    {
+      "DersKodu": "TR1",
+      "Soru": "Aşağıdakilerden  hangisi meyvedir",
+      "A": "Armut",
+      "B": "Maydanoz",
+      "C": "Biber",
+      "D": "Domates",
+      "DogruCevap": "Armut",
+      "durum": true,
+      "Puan": 15,
+      "id": 2
+    },
+    {
+      "DersKodu": "MT1",
+      "Soru": "5+2=?",
+      "A": "10",
+      "B": "8",
+      "C": "7",
+      "D": "5",
+      "DogruCevap": "7",
+      "durum": true,
+      "Puan": 20,
+      "id": 3
+    },
+    {
+      "DersKodu": "MT1",
+      "Soru": "15-5=?",
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "DogruCevap": "10",
+      "durum": true,
+      "Puan": 20,
+      "id": 4
+    },
+    {
+      "DersKodu": "MT1",
+      "Soru": "vcdsv",
+      "A": "dsv",
+      "B": "vd",
+      "C": "d",
+      "D": "d",
+      "DogruCevap": "dsv",
+      "durum": true,
+      "Puan": 2,
+      "id": 5
+    },
+    {
+      "DersKodu": "TR1",
+      "Soru": "Aşağıdaki isimlerden hangisi tek hecelidir?",
+      "A": "ali",
+      "B": "Selim",
+      "C": "Can",
+      "D": "Muratt",
+      "DogruCevap": "Can",
+      "durum": true,
+      "Puan": 10,
+      "id": 6
+    },
+    {
+      "DersKodu": "TR2",
+      "Soru": "vfv",
+      "A": "vfdv",
+      "B": "vfdv",
+      "C": "vfdv",
+      "D": "vfdv",
+      "DogruCevap": "vfdv",
+      "durum": true,
+      "Puan": 8,
+      "id": 7
+    },
+    {
+      "DersKodu": "TR1",
+      "Soru": "yusuf",
+      "A": "yusuf",
+      "B": "suds",
+      "C": "cdusc",
+      "D": "cds",
+      "DogruCevap": "yusuf",
+      "durum": true,
+      "Puan": 50,
+      "id": 8
+    }
+  ],
+  "Dersler": [
+    {
+      "id": 1,
+      "DersAdi": "Türkçe",
+      "DersKodu": "TR1",
+      "sinif": "1",
+      "durum": true
+    },
+    {
+      "id": 2,
+      "DersAdi": "Matematik",
+      "DersKodu": "MT1",
+      "sinif": "1",
+      "durum": true
+    },
+    {
+      "id": 3,
+      "DersAdi": "Türkçe",
+      "DersKodu": "TR2",
+      "sinif": "2",
+      "durum": true
+    },
+    {
+      "id": 4,
+      "DersAdi": "Matematik",
+      "DersKodu": "MT2",
+      "sinif": "2",
+      "durum": true
+    },
+    {
+      "id": 8,
+      "DersAdi": "Fen Bilimleri",
+      "DersKodu": "FB2",
+      "sinif": "2",
+      "durum": true
+    },
+    {
+      "id": 5,
+      "DersAdi": "Türkçe",
+      "DersKodu": "TR3",
+      "sinif": "3",
+      "durum": true
+    },
+    {
+      "id": 6,
+      "DersAdi": "Matematik",
+      "DersKodu": "MT3",
+      "sinif": "3",
+      "durum": true
+    },
+    {
+      "id": 7,
+      "DersAdi": "Hayat Bilgisi",
+      "DersKodu": "HB3",
+      "sinif": "3",
+      "durum": true
+    }
+  ]
+}
